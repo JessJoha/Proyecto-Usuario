@@ -1,0 +1,14 @@
+C:\Users\jessi\OneDrive\Escritorio\PROGRMACION DISTRIBUIDA\usuarioproyecto\bin\Debug\net8.0\usuarioproyecto.exe
+C:\Users\jessi\OneDrive\Escritorio\PROGRMACION DISTRIBUIDA\usuarioproyecto\bin\Debug\net8.0\usuarioproyecto.deps.json
+C:\Users\jessi\OneDrive\Escritorio\PROGRMACION DISTRIBUIDA\usuarioproyecto\bin\Debug\net8.0\usuarioproyecto.runtimeconfig.json
+C:\Users\jessi\OneDrive\Escritorio\PROGRMACION DISTRIBUIDA\usuarioproyecto\bin\Debug\net8.0\usuarioproyecto.dll
+C:\Users\jessi\OneDrive\Escritorio\PROGRMACION DISTRIBUIDA\usuarioproyecto\bin\Debug\net8.0\usuarioproyecto.pdb
+C:\Users\jessi\OneDrive\Escritorio\PROGRMACION DISTRIBUIDA\usuarioproyecto\obj\Debug\net8.0\usuarioproyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\OneDrive\Escritorio\PROGRMACION DISTRIBUIDA\usuarioproyecto\obj\Debug\net8.0\usuarioproyecto.AssemblyInfoInputs.cache
+C:\Users\jessi\OneDrive\Escritorio\PROGRMACION DISTRIBUIDA\usuarioproyecto\obj\Debug\net8.0\usuarioproyecto.AssemblyInfo.cs
+C:\Users\jessi\OneDrive\Escritorio\PROGRMACION DISTRIBUIDA\usuarioproyecto\obj\Debug\net8.0\usuarioproyecto.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Escritorio\PROGRMACION DISTRIBUIDA\usuarioproyecto\obj\Debug\net8.0\usuarioproyecto.dll
+C:\Users\jessi\OneDrive\Escritorio\PROGRMACION DISTRIBUIDA\usuarioproyecto\obj\Debug\net8.0\refint\usuarioproyecto.dll
+C:\Users\jessi\OneDrive\Escritorio\PROGRMACION DISTRIBUIDA\usuarioproyecto\obj\Debug\net8.0\usuarioproyecto.pdb
+C:\Users\jessi\OneDrive\Escritorio\PROGRMACION DISTRIBUIDA\usuarioproyecto\obj\Debug\net8.0\usuarioproyecto.genruntimeconfig.cache
+C:\Users\jessi\OneDrive\Escritorio\PROGRMACION DISTRIBUIDA\usuarioproyecto\obj\Debug\net8.0\ref\usuarioproyecto.dll
