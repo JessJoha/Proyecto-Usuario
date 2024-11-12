@@ -10,19 +10,7 @@ This is a simple C# console application that allows users to register and store 
 
 ## Installation
 
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/JessJoha/usuarioproyecto.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd usuarioproyecto
-    ```
-
-3. Make sure .NET is installed on your machine by checking the version:
+1. Make sure .NET is installed on your machine by checking the version:
 
     ```bash
     dotnet --version
@@ -30,16 +18,38 @@ This is a simple C# console application that allows users to register and store 
 
     If you don't have .NET SDK installed.
 
-## Running the Project
+## Building the Docker Image 
+If you prefer to build the Docker image, run this command.
 
-To run the project locally:
+1. **Build the Docker image:**
+   
+```bash
+docker build -t imgusr .
+ ```
 
-1. Open a terminal and navigate to the project directory.
-2. Run the following command to build and run the project:
+## Image to Docker Hub
+To push the image to your own Docker Hub account, follow these steps.
+
+1. **Tag the image:**
 
     ```bash
-    dotnet run
-    ```
+    docker tag imgusr jessjoha/imgusr:latest
+    ``` 
+2. **Push the image to Docker Hub:**
+   
+    ```bash
+    docker push jessjoha/imgusr:latest
+    ``` 
+
+### Pull the image from Docker Hub:
+
+```bash
+docker pull jessjoha/imgusr
+```
+
+## Link to the Docker Hub image:
+
+https://hub.docker.com/r/jessjoha/imgusr
 
 The application will prompt you to enter the number of users you want to register. It will then ask for the name, age, and email for each user. Finally, it will display the entered data and save it to a text file called `usuarios_registrados.txt`.
 
